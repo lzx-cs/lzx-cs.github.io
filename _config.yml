@@ -1,0 +1,18 @@
+# use remote theme
+remote_theme: poole/poole@v2.1.0
+
+# Permalinks
+permalink: /blog/:categories/:year/:month/:day/:title/
+
+# Setup
+title:               Cherry Max
+url:                 http://getpoole.com
+paginate:            3
+paginate_path: "/blog/page:num/"
+baseurl:             ""
+
+# About/contact
+author:
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
